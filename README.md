@@ -1,0 +1,1 @@
+This project is an attempt to build the google.com homepage using CSS and HTML.
