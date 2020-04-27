@@ -1,0 +1,21 @@
+.navbar a{
+    color:darkgray;
+}
+
+.foot{
+    background-color: lightgray;
+    color:darkgray;
+}
+a{
+    text-decoration:none;
+}
+
+#sign{
+    color:white;
+    background-color:blue;
+    border-radius: 3px;
+    border: none;
+    height:50px;
+    width:75px;
+    font-size:20px;
+}
