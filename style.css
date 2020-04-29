@@ -1,21 +1,81 @@
 .navbar a{
-    color:darkgray;
+    color:#5f6368;
+    text-decoration:none;
+    display:block;
+    padding-left: 10px;
+    padding-right:10px;
+}
+.navbar ul{
+    list-style-type: none;
+    margin:0;
+    padding: 0;
+}
+.left-bar{
+    float:left;
+}
+.right-bar{
+    float:right;
 }
 
-.foot{
-    background-color: lightgray;
-    color:darkgray;
-}
-a{
+.foot-bar a{
     text-decoration:none;
+    color:#5f6368;
+    padding-left: 10px;
+    padding-right:10px;
+}
+
+.foot-bar ul{
+    list-style-type: none;
+    margin:0;
+    padding: 0;
+}
+
+.foot-left-bar {
+    float:left;
+}
+
+.foot-right-bar {
+    float:right;
 }
 
 #sign{
     color:white;
-    background-color:blue;
+    background-color:rgb(10, 109, 238);
     border-radius: 3px;
     border: none;
-    height:50px;
+    height:30px;
     width:75px;
-    font-size:20px;
+    font-size:14px;
+}
+
+.search-button{
+    background-color: lightgray;
+    color:#5f6368;
+    font-size:12px;
+    border-radius: 3px;
+    height:35px;
+    width:120px;
+}
+
+.lucky-button{
+    background-color: lightgray;
+    color:#5f6368;
+    font-size:12px;
+    border-radius: 3px;
+    height:35px;
+    width:125px;
+}
+
+.search-box{
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-color:lightgray;
+    width:400px;
+    height:35px;
+}
+
+.logo{
+    
 }
